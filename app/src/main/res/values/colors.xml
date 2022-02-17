@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="pokeapp_grass">#48d0b0</color>
+    <color name="pokeapp_fire">#fb6c6c</color>
+    <color name="pokeapp_water">#76bdfe</color>
+    <color name="pokeapp_bug">#6bad4a</color>
+    <color name="pokeapp_poison">#b561b5</color>
+    <color name="pokeapp_electric">#ffce4b</color>
+    <color name="pokeapp_ground">#e6bd5a</color>
+    <color name="pokeapp_fairy">#efa3b1</color>
+    <color name="pokeapp_fighting">#a47b73</color>
+    <color name="pokeapp_psychic">#c5a410</color>
+    <color name="pokeapp_rock">#8b8b94</color>
+    <color name="pokeapp_ghost">#62317b</color>
+    <color name="pokeapp_flying">#c9b96c</color>
+    <color name="pokeapp_ice">#4395e8</color>
+    <color name="pokeapp_dragon">#f7b251</color>
+    <color name="pokeapp_dark">#253960</color>
+    <color name="pokeapp_other">#8eadcc</color>
+    <color name="white_transparent">#36FFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+</resources>
